@@ -4,7 +4,6 @@
  */
 package project;
 
-// Ebrar Elmas Yıldız - 2121221011
 import java.util.Scanner;
 
 public class Project {
